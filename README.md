@@ -2,7 +2,10 @@
 
 If you want the live site: https://scraper-challenge-2.netlify.app/
 
-Just clone this repo and make sure to use npm to install ```@mui/material``` and ```@mui/x-data-grid```. This can be done like this:
+Just clone this repo and make sure to use npm to install ```@mui/material``` and ```@mui/x-data-grid```.
+
+This can be done like this:
+
 ```npm install @mui/material @mui/x-data-grid```
 
 Then just type npm start and run!

@@ -8,7 +8,7 @@ This can be done like this:
 
 ```npm install @mui/material @mui/x-data-grid```
 
-Then just type npm start and run!
+Then just type ```npm start``` and run!
 
 If you're using nodemon, then: ```npm install nodemon```. When starting: ```npm start nodemon website```
 
